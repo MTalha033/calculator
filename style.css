@@ -58,11 +58,11 @@ body{
 
 }
 .row input{
-    font-family: cursive;
+    font-family: math;
     background: #1b1b1b;
     color: white;
     text-align: right;
-    padding: 6px 15px 6px 8px;
+    padding: 6px 2px 6px 8px;
     margin: 10px 0px 20px 0px;
     font-size: 20px;
     border: none;
